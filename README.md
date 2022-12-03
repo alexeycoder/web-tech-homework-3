@@ -20,6 +20,12 @@
 
 *Результат работы веб-страницы:*
 
+![task1-example-1](https://user-images.githubusercontent.com/109767480/205451452-109bcbbe-1a88-45a3-9d21-c140ea527c8d.png)
+![task1-example-2](https://user-images.githubusercontent.com/109767480/205451458-87d56e55-0579-446a-b67b-e0b486ac06de.png)
+![task1-example-3](https://user-images.githubusercontent.com/109767480/205451460-f35be0a7-6b56-4468-913f-d88a7478ec40.png)
+![task1-example-4](https://user-images.githubusercontent.com/109767480/205451464-109f14c4-cba6-45c9-88ad-cc4deb72888b.png)
+![task1-example-5](https://user-images.githubusercontent.com/109767480/205451465-0232d374-e560-471c-ad6b-d1357656cf08.png)
+
 ### Задание 2
 
 Необходимо создать html-страницу с названием 2.html, в которой подключить файл 2.js (его тоже необходимо создать рядом с html-файлом). В js-файле необходимо создать следующий скрипт:
@@ -30,3 +36,5 @@ Cоздать функцию `greeting`, которая принимает им�
 
 *Результат работы веб-страницы:*
 
+![task2-example-1](https://user-images.githubusercontent.com/109767480/205451467-46c32c57-ce3a-4687-9f27-547f657be1da.png)
+![task2-example-2](https://user-images.githubusercontent.com/109767480/205451470-39a7d264-a1cd-410c-b707-953973c8cd86.png)
